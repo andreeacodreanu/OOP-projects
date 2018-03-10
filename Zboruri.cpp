@@ -1,3 +1,4 @@
+/*Aplicatie pentru gestionarea zborurilor unei comparii*/
 #include <iostream>
 #include <string.h>
 
